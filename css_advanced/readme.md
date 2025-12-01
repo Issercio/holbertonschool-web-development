@@ -45,11 +45,3 @@ The goal is to transform an HTML page into a polished, visually appealing web pa
 - **Browsers for Testing:** Chrome, Firefox, Safari  
 
 ---
-
-## Installation & Setup
-
-1. **Clone the repository**  
-
-```bash
-git clone https://github.com/yourusername/advanced-css-project.git
-cd advanced-css-project
